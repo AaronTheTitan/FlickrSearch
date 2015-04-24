@@ -30,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		9108952F1AEAD99900216141 /* OrderedDictionary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderedDictionary.swift; sourceTree = "<group>"; };
+		910895311AEAE68000216141 /* ODPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ODPlayground.playground; sourceTree = "<group>"; };
 		C9666D8A195717D3004CD98B /* FlickrSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlickrSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9666D8E195717D3004CD98B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C9666D8F195717D3004CD98B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -85,6 +86,7 @@
 			children = (
 				C9666DAE1957185D004CD98B /* Flickr.swift */,
 				9108952F1AEAD99900216141 /* OrderedDictionary.swift */,
+				910895311AEAE68000216141 /* ODPlayground.playground */,
 				C9BBAB9219B25CC10040D82F /* JSON.swift */,
 				C9666D8F195717D3004CD98B /* AppDelegate.swift */,
 				C9666D91195717D3004CD98B /* MasterViewController.swift */,
